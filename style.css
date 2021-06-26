@@ -1,0 +1,12 @@
+img{
+    width: 300px;
+    height: 300px;
+}
+#welcome
+{
+    background: linear-gradient(#faa7e9 10%, #d6a4ed 100%);
+    text-shadow: 15px;
+}
+p{
+    font-size: 40px
+}
